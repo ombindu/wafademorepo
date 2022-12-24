@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "gitadf22"
 		},
+		"mylinkset_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
